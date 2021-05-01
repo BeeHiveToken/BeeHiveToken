@@ -1,0 +1,2 @@
+layout: none
+permalink: .well-known/pki-validation/5275C9AF0DB6AE6791C2DF58D34E4D1E.txt
